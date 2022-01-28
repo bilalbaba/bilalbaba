@@ -2,7 +2,7 @@
 
 <br>
 <div>
-<h1 style="font-family: Luminari, fantasy, 'Times New Roman'; letter-spacing: 5px;">MY ARSENAL</h1>
+<h1 style="font-family: Luminari, fantasy, 'Times New Roman'; letter-spacing: 5px;">MY EXPERIENCE</h1>
 <table>
   <tr style="border: none">
     <td style="border: none"><a href="https://www.javascript.com"><img src="logo/js.png" width="90px" alt="JavaScript Logo"/><a/></td>
